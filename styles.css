@@ -11,9 +11,7 @@ hr{ border-style: none;
   border-width: 5px;
 }
 
-.books-png{
-  height:200px;
-}
+
 h1{
   color: #66BFBF;
 }
@@ -25,6 +23,14 @@ h3{
 }
 
 img {
+  text-align: center;
   width: 800px;
   height: 300;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
