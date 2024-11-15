@@ -14,13 +14,24 @@ hr{ border-style: none;
 
 h1{
   color: #66BFBF;
+ font-size: xx-large;
 }
-h2{
-  color: #66BFBF;
+
+h2 {
+  text-align: center;
+ color: indianred;
+ font-size: 40pw;
+ font-display: auto;
 }
-h3{
-  color: #66BFBF;
+
+
+h3 {
+  text-align: center;
+ color: indianred;
+ font-size: 40pw;
+ font-display: auto;
 }
+
 
 img {
   text-align: center;
